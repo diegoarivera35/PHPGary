@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    margin: 0 !important;
+    padding: 0;
+    background-color: red;
+}
+
+.container, .container-fluid {
+    margin: 0;
+    padding: 0;
+}
